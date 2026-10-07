@@ -1,2 +1,1 @@
-print("LEFT")
-
+print("LEFT & RIGHT")
